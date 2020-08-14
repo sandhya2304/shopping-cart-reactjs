@@ -1,0 +1,58 @@
+{
+    "products":[
+        {
+            "_id":"dress1",
+            "title":"Mini Dress with shirring ",
+            "image":"/images/dress1.jpg",
+            "description": " ",
+            "price":12,
+            "availableSize":["XL","L"]
+            
+        },
+        {
+            "_id":"dress2",
+            "title":"Mini Dress with font",
+            "image":"/images/dress2.jpg",
+            "description": "Mini Dress with font",
+            "price":12,
+            "availableSize":["XL","L"]
+            
+        },
+        {
+            "_id":"dress3",
+            "title":"Mini Dress with shirring floral",
+            "image":"/images/dress3.jpg",
+            "description": "Mini Dress with floral",
+            "price":12,
+            "availableSize":["XL","L"]
+            
+        },
+        {
+            "_id":"dress4",
+            "title":"Mini Dress with light ",
+            "image":"/images/dress4.jpg",
+            "description": "Mini Dress with light",
+            "price":12,
+            "availableSize":["XL","L"]
+            
+        },
+        {
+            "_id":"dress5",
+            "title":"Mini Dress with shirring",
+            "image":"/images/dress5.jpg",
+            "description": "Mini Dress with flowers",
+            "price":12,
+            "availableSize":["XL","L"]
+            
+        },
+        {
+            "_id":"dress6",
+            "title":"Mini Dress with shirring",
+            "image":"/images/dress6.jpg",
+            "description": "Mini Dress Bright",
+            "price":12,
+            "availableSize":["XL","L"]
+            
+        }
+    ]
+}
