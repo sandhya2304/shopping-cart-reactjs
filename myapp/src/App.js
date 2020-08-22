@@ -106,6 +106,7 @@ filterProducts =(event) =>{
                    cartItems={this.state.cartItems} 
                    removeFromCart={this.removeFromCart} 
                    createOrder ={this.createOrder}
+                   
                    />
               </div>
             </div>
