@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import formatCurrency from '../util';
 import Fade from 'react-reveal/Fade';
 import Modal from 'react-modal';
 import Zoom from 'react-reveal/Zoom';
 
-export default class Products extends Component {
+class Products extends Component {
 
 constructor(){
     super();
@@ -100,3 +100,4 @@ closeModal =() =>{
         )
     }
 }
+export default Products;
