@@ -78,15 +78,12 @@ filterProducts =(event) =>{
     });
 
   }
-
-  
 }
   render(){
-
   return (
     <div className="grid-container">
         <header>
-           <a href="/">Shopping cart</a>
+           <a href="/">Flipkart</a>
         </header>
         <main>
             <div className="content">

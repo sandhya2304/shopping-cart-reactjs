@@ -4,7 +4,7 @@
             "_id":"dress1",
             "title":"Mini Dress with shirring ",
             "image":"/images/dress1.jpg",
-            "description": " ",
+            "description": "It is easily washable and pattern is soft and easy",
             "price":12,
             "availableSize": ["X", "L", "XL", "XXL"]
             
@@ -13,7 +13,7 @@
             "_id":"dress2",
             "title":"Mini Dress with font",
             "image":"/images/dress2.jpg",
-            "description": "Mini Dress with font",
+            "description": "Mini Dress with font It is easily washable and pattern is soft and easy",
             "price":12,
             "availableSize":["X", "M", "L"]
             
@@ -22,7 +22,7 @@
             "_id":"dress3",
             "title":"Mini Dress with shirring floral",
             "image":"/images/dress3.jpg",
-            "description": "Mini Dress with floral",
+            "description": "Mini Dress with floral It is easily washable and pattern is soft and easy",
             "price":12,
             "availableSize":["X", "M", "L"]
             
@@ -31,7 +31,7 @@
             "_id":"dress4",
             "title":"Mini Dress with light ",
             "image":"/images/dress4.jpg",
-            "description": "Mini Dress with light",
+            "description": "Mini Dress with light and dress belongs to the silky pattern which is highly recommennded to be handle with care.",
             "price":12,
             "availableSize":["XL"]
             
@@ -40,7 +40,7 @@
             "_id":"dress5",
             "title":"Mini Dress with shirring",
             "image":"/images/dress5.jpg",
-            "description": "Mini Dress with flowers",
+            "description": "Mini Dress with flowers It is easily washable and pattern is soft and easy",
             "price":12,
             "availableSize":["XS","S"]
             
@@ -49,7 +49,7 @@
             "_id":"dress6",
             "title":"Mini Dress with shirring",
             "image":"/images/dress6.jpg",
-            "description": "Mini Dress Bright",
+            "description": "Mini Dress Bright It is easily washable and pattern is soft and easy",
             "price":12,
             "availableSize":["XXL","L"]
             
