@@ -190,6 +190,7 @@ route.get("/api/products")
 route.delete("/api/products/:id")
 Redux
 
+
 Add Redux
 what is redux (diagram)
 update task on spreadsheet
