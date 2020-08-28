@@ -221,6 +221,7 @@ fetch products on did mount
 package.json
 set proxy to http://127.0.0.1:5000
 npm run server
+
 check products list
 commit and publish
 send pull request and merge
@@ -238,6 +239,7 @@ move app.js filterProducts logic here
 reducers/productReducers.js
 case FILTER_PRODUCTS_BY_SIZE
 case ORDER_PRODUCTS_BY_PRICE
+
 Filter.js
 connect props: size, sort, items and filteredItems
 connect actions: filterProducts and sortProducts
@@ -248,6 +250,7 @@ check result
 update task and branch
 Add Redux To Cart
 Updte task and branch
+
 types.js
 create ADD_TO_CART
 create REMOVE_FROM_CART
